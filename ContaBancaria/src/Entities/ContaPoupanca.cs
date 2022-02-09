@@ -5,7 +5,7 @@ namespace ContaBancaria.src.Entities
           public override void Rendimento(double valorRendimentoMensal = 0.07)
         {
             
-            this.saldo = saldo * valorRendimentoMensal;
+            this.saldo *= valorRendimentoMensal;
             Console.WriteLine($"O rendimento mensal na Conta Poupança é de {this.saldo}");
         }
         
