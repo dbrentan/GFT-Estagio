@@ -1,0 +1,15 @@
+C:\GftEstágio\OperacoesBasicas\bin\Debug\net6.0\OperacoesBasicas.exe
+C:\GftEstágio\OperacoesBasicas\bin\Debug\net6.0\OperacoesBasicas.deps.json
+C:\GftEstágio\OperacoesBasicas\bin\Debug\net6.0\OperacoesBasicas.runtimeconfig.json
+C:\GftEstágio\OperacoesBasicas\bin\Debug\net6.0\OperacoesBasicas.dll
+C:\GftEstágio\OperacoesBasicas\bin\Debug\net6.0\ref\OperacoesBasicas.dll
+C:\GftEstágio\OperacoesBasicas\bin\Debug\net6.0\OperacoesBasicas.pdb
+C:\GftEstágio\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.csproj.AssemblyReference.cache
+C:\GftEstágio\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\GftEstágio\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.AssemblyInfoInputs.cache
+C:\GftEstágio\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.AssemblyInfo.cs
+C:\GftEstágio\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.csproj.CoreCompileInputs.cache
+C:\GftEstágio\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.dll
+C:\GftEstágio\OperacoesBasicas\obj\Debug\net6.0\ref\OperacoesBasicas.dll
+C:\GftEstágio\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.pdb
+C:\GftEstágio\OperacoesBasicas\obj\Debug\net6.0\OperacoesBasicas.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperacoesBasicas", "OperacoesBasicas\OperacoesBasicas.csproj", "{37BE0AF3-F457-4F02-B2A0-82A56A20B95C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaDasLetras", "SomaDasLetras\SomaDasLetras.csproj", "{34FDB8DB-E2B9-4686-9954-6DDC4C6DD4A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContaBancaria", "ContaBancaria\ContaBancaria.csproj", "{4200E816-3407-4E19-93F9-09F0C7F6C165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37BE0AF3-F457-4F02-B2A0-82A56A20B95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BE0AF3-F457-4F02-B2A0-82A56A20B95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BE0AF3-F457-4F02-B2A0-82A56A20B95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BE0AF3-F457-4F02-B2A0-82A56A20B95C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FDB8DB-E2B9-4686-9954-6DDC4C6DD4A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FDB8DB-E2B9-4686-9954-6DDC4C6DD4A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FDB8DB-E2B9-4686-9954-6DDC4C6DD4A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FDB8DB-E2B9-4686-9954-6DDC4C6DD4A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4200E816-3407-4E19-93F9-09F0C7F6C165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4200E816-3407-4E19-93F9-09F0C7F6C165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4200E816-3407-4E19-93F9-09F0C7F6C165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4200E816-3407-4E19-93F9-09F0C7F6C165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
